@@ -29,7 +29,7 @@ github_username:  tomasanderson
 # Build settings
 theme: minima
 plugins:
-  - offroadtips-feed
+  - jakyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
